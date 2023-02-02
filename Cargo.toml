@@ -1,0 +1,8 @@
+[package]
+name = "Treeed"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thatsit = { git = "https://github.com/egasimus/thatsit" }
+thatsit-widgets = { git = "https://github.com/egasimus/thatsit-widgets" }
