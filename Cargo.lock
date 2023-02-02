@@ -162,9 +162,9 @@ checksum = "2dffe52ecf27772e601905b7522cb4ef790d2cc203488bbd0e2fe85fcb74566d"
 
 [[package]]
 name = "miniz_oxide"
-version = "0.6.4"
+version = "0.6.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f2e212582ede878b109755efd0773a4f0f4ec851584cf0aefbeb4d9ecc114822"
+checksum = "b275950c28b37e794e8c55d88aeb5e139d0ce23fdbbeda68f8d7174abdf9e8fa"
 dependencies = [
  "adler",
 ]
@@ -294,7 +294,7 @@ dependencies = [
 [[package]]
 name = "thatsit-widgets"
 version = "0.1.0"
-source = "git+https://github.com/egasimus/thatsit-widgets#b1ba6d0731d670a416a6449c770615a300ef4487"
+source = "git+https://github.com/egasimus/thatsit-widgets#07e16c2efe83d650096d255ba86320cbafcc8344"
 dependencies = [
  "opt-mod",
  "pathdiff",
